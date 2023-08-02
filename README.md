@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on studies
 - 📫 How to reach me micherly.almeida@gmail.com
+- 💻  my portfolio: https://www.behance.net/Micherly
 
 <!---
 Micherly/Micherly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
